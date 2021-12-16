@@ -87,7 +87,7 @@ body {
 .contact-info__block {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: center;
 }
 
 .contact-info__block--center {
@@ -163,7 +163,7 @@ body {
 
 .skills__text {
     color: var(--secondary-text-color);
-    text-align: justify;
+    text-align: center;
 }
 .experiences {
     flex: 1 1 60%;
